@@ -32,7 +32,7 @@ function App() {
       }else if(name==='rate'){
         setRate(value)
         setValidRate(true)
-      }else if(name=='year'){
+      }else if(name==='year'){
         setYear(value)
         setValiedYear(true)
       }
@@ -44,7 +44,7 @@ function App() {
       }else if(name==='rate'){
         setRate(value)
         setValidRate(false)
-      }else if(name=='year'){
+      }else if(name==='year'){
         setYear(value)
         setValiedYear(false)
       }
